@@ -1,4 +1,34 @@
-<head>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>hien | introhien</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="hien" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="introhien" />
+<meta property="og:description" content="introhien" />
+<link rel="canonical" href="https://milky-way-2501.github.io/hien/" />
+<meta property="og:url" content="https://milky-way-2501.github.io/hien/" />
+<meta property="og:site_name" content="hien" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="hien" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"introhien","headline":"hien","name":"hien","url":"https://milky-way-2501.github.io/hien/"}</script>
+<!-- End Jekyll SEO tag -->
+    <link rel="stylesheet" href="/hien/assets/css/style.css?v=c8e2e212de5aab34523566e6c585870f9a2ead14">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+<!-- Setup Google Analytics -->
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/hien/favicon.ico" -->
+<!-- end custom head snippets -->
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <head>
     <style>
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);display: flex;justify-content: center;align-items: center;min-height: 100vh; margin: 0;}
         .card {background: white; padding: 2rem;border-radius: 20px;box-shadow: 0 10px 25px rgba(0,0,0,0.1);width: 350px;text-align: center;}
@@ -31,5 +61,9 @@
 <script>
     function copyLink() {const url = window.location.href;navigator.clipboard.writeText(url).then(() => {alert("Đa copy link trang web! Gui cho ban be ngay nhe."))
 </script>
-</body>
+</body>  
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
