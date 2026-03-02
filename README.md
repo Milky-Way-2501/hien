@@ -50,8 +50,6 @@
         <p><strong>Tinh trang:</strong> <span style="color: red;">Đoc than (E) 🚩</span></p>
     </div>
     <p class="signature">#thieugayhonbay1nua</p>
-    <div class="share-section">
-        <button class="btn-share" onclick="copyLink()">Copy link đe chia se</button>
     </div>
 </div>
 </body>
