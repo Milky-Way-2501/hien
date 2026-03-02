@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Profile - Dieu Hien</title>
+<title>My Profile - Dieu Hien</title>
     <style>
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);display: flex;justify-content: center;align-items: center;min-height: 100vh; margin: 0;}
         .card {background: white; padding: 2rem;border-radius: 20px;box-shadow: 0 10px 25px rgba(0,0,0,0.1);width: 350px;text-align: center;}
@@ -16,7 +11,6 @@
         .btn-share {background-color: #f06292;color: white;border: none;padding: 10px 20px;border-radius: 25px;cursor: pointer;transition: 0.3s;}
         .btn-share:hover { background-color: #d81b60; }
     </style>
-</head>
 <body>
 <div class="card">
     <h1>Dieu Hien 🌸</h1>
